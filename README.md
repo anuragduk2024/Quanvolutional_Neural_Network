@@ -13,16 +13,20 @@ Metrics Calculation: A custom callback function is used to calculate precision, 
 Performance Visualization: After training both models, the performance metrics (accuracy, loss, precision, and recall) are plotted and compared for both models using matplotlib and seaborn.
 Conclusion: The performance of both models is evaluated, and the quantum-enhanced model’s potential advantages are analyzed based on the visualization.
 
-Requirements
+# Requirements
 
 To run this project, you'll need to install the following Python libraries:
 
 TensorFlow: For building and training the neural network models.
-Keras: For simplifying the model-building process.
-NumPy: For handling arrays and matrices.
-Matplotlib: For plotting the training progress.
-Seaborn: For enhanced data visualization.
-Scikit-learn: For calculating classification metrics like precision, recall, and F1 score.
-PennyLane: For quantum machine learning.
 
-You can install the required dependencies using pip:
+Keras: For simplifying the model-building process.
+
+NumPy: For handling arrays and matrices.
+
+Matplotlib: For plotting the training progress.
+
+Seaborn: For enhanced data visualization.
+
+Scikit-learn: For calculating classification metrics like precision, recall, and F1 score.
+
+PennyLane: For quantum machine learning.
