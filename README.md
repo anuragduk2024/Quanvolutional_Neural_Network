@@ -35,9 +35,9 @@ Scikit-learn: For calculating classification metrics like precision, recall, and
 Once the training is complete, the resulting plots will show the following comparisons:
 
   * Validation Accuracy: This plot shows how accurately each model classifies the test set.
-* Validation Loss: This plot shows how well each model fits the data.
+  * Validation Loss: This plot shows how well each model fits the data.
   * Validation Precision: The precision metric is evaluated, showing how many of the positive predictions are correct.
-* Validation Recall: The recall metric shows how many of the actual positives are correctly identified.
+  * Validation Recall: The recall metric shows how many of the actual positives are correctly identified.
 
 By analyzing these plots, we can assess the advantages of the quantum-enhanced model over the classical one.
 
