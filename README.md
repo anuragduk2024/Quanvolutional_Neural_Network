@@ -94,6 +94,13 @@ In this section, we visualize the input image and the four processed output imag
 
 These processed images are obtained by applying the quantum operations to specific regions of the input image, capturing different feature representations.
 
+## Performance Metrics: Quantum vs Classical Models
+
+In this section, we compare the performance of the Quantum-enhanced Model (q_model) and the Classical Model (c_model) using key metrics: accuracy, precision, recall, loss, and F1 score. These metrics are tracked during training and plotted to visualize the model's learning progress.
+![img001](https://github.com/user-attachments/assets/88c5d845-e01f-47d6-82ba-0b659d8bddfc)
+
+![img002](https://github.com/user-attachments/assets/a3401149-7278-488c-970e-d6efdfd24dd2)
+
 
 
 ## Conclusion
