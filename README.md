@@ -6,6 +6,8 @@ In this project, we implement a Quanvolutional Neural Network (QNN), a quantum m
 We compare the performance of the quantum-enhanced QNN with a classical CNN on a standard image classification task. Both models are trained and evaluated based on key metrics like accuracy, loss, precision, and recall. A custom callback is used to track these metrics at the end of each epoch during training. After training, we visualize and compare the models' performance to assess whether the quantum layer improves the efficiency and accuracy of the classical network.
 
 Through this comparison, we aim to understand how quantum-enhanced models, such as the Quanvolutional Neural Network, may offer advantages over traditional neural networks in machine learning tasks.
+
+* Projec Structure
 This project consists of the following key sections:
 
 Model Definition and Training: We define and train both a quantum-enhanced model (q_model) and a classical neural network (c_model).
