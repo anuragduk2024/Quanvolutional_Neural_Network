@@ -1,4 +1,4 @@
-# Quantum vs Classical Neural Network: A Performance Comparison
+# QUANTUM IMAGE PROCESSING
 ## Overview
 
 In this project, we implement a Quanvolutional Neural Network (QNN), a quantum machine learning model originally introduced in Henderson et al. (2019). A QNN integrates quantum computing techniques into a convolutional neural network (CNN) to leverage the power of quantum mechanics for image classification tasks. Specifically, we explore the advantages of using quantum layers within a neural network to enhance its ability to capture and model complex patterns in image data, which may be difficult for classical neural networks to represent effectively.
